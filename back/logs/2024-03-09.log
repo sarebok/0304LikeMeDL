@@ -1,0 +1,8 @@
+
+Started GET / for :: ::1 at Sat Mar 09 2024 03:03:15 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 16 ms Request ID: [e30ee242-1e3f-4123-a53c-958b6fdda44c]
+
+Started GET /posts for :: ::1 at Sat Mar 09 2024 03:07:34 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 11 ms Request ID: [c566e9b4-e658-4fdf-ad1d-af7583de7651]
