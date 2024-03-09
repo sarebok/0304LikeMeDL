@@ -1,6 +1,9 @@
+import { getDbPosts } from "../models/postModel.js"
+
 const getPosts = async (req, res) => {
     // Your code here
-    res.send('chao world desde controllers')
+    res.send(await getDbPosts());
+    
 }
 
 export { getPosts }
