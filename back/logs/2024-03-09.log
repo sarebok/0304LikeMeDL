@@ -114,3 +114,39 @@ Completed: 200 message:  Time response: 41 ms Request ID: [aef1aff0-6ed7-415b-a8
 Started GET /posts for :: ::1 at Sat Mar 09 2024 04:32:21 GMT-0300 (Chile Summer Time)
   Parameters in body: {}
 Completed: 304 message:  Time response: 3 ms Request ID: [32129479-5385-42c6-abfa-644825fbdc00]
+
+Started GET /posts for :: ::1 at Sat Mar 09 2024 11:06:08 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 99 ms Request ID: [a91a72d5-f353-4684-b8d6-5f370291896c]
+
+Started GET /posts for :: ::1 at Sat Mar 09 2024 11:07:00 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 94 ms Request ID: [60161194-7fff-4d3f-9fb7-440f25392d8b]
+
+Started GET /posts for :: ::1 at Sat Mar 09 2024 11:07:00 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [ac6dcead-7c2a-4854-b040-b27791d2e2f1]
+
+Started GET /posts for :: ::1 at Sat Mar 09 2024 11:38:42 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 48 ms Request ID: [0b448ea3-7733-47bf-bc53-af5568638890]
+
+Started GET /posts for :: ::1 at Sat Mar 09 2024 11:38:42 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [2a394a93-2398-4a74-bb7e-ba1536c1d9d9]
+
+Started GET /posts for :: ::1 at Sat Mar 09 2024 12:30:48 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 55 ms Request ID: [6c64d539-6cdc-4242-9985-98f14e6ccc90]
+
+Started GET /posts for :: ::1 at Sat Mar 09 2024 12:30:48 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [87b46165-c133-4bc5-a8b7-10831a40e810]
+
+Started GET /posts for :: ::1 at Sat Mar 09 2024 12:43:28 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 44 ms Request ID: [bd57d9df-0301-4f97-9a01-900dbd01aef9]
+
+Started GET /posts for :: ::1 at Sat Mar 09 2024 12:43:28 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [6e522edb-17d0-4e00-96b6-9625d0de66c7]

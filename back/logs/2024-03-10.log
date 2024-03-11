@@ -1,0 +1,48 @@
+
+Started GET /posts for :: ::1 at Sat Mar 09 2024 23:22:00 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 46 ms Request ID: [380244f8-8937-487e-88ed-e5c5551a24d8]
+
+Started GET /posts for :: ::1 at Sat Mar 09 2024 23:22:00 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [b0fb3720-ea8f-4d5c-8711-972b4e43731e]
+
+Started GET /posts for :: ::1 at Sun Mar 10 2024 18:33:04 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 62 ms Request ID: [eabc7443-24d4-4f37-abbe-358305adc67b]
+
+Started GET /posts for :: ::1 at Sun Mar 10 2024 18:33:04 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [54d73a6c-5ce8-4301-b5df-7c958ddb7bca]
+
+Started POST /posts for :: ::1 at Sun Mar 10 2024 18:33:15 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"titulo":"post4","img":"asdfasfd","descripcion":"holi"}
+Completed: 404 message:  Time response: 3 ms Request ID: [96fe489f-6db6-4948-ba3f-91cb19aa1a74]
+
+Started POST /posts for :: ::1 at Sun Mar 10 2024 18:33:40 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"titulo":"qwe","img":"qweq","descripcion":"qweqwe"}
+Completed: 200 message:  Time response: 3 ms Request ID: [b5f09aaa-a716-4968-8870-93ed7b3be5da]
+
+Started GET /posts for :: ::1 at Sun Mar 10 2024 18:34:31 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 39 ms Request ID: [6df88b11-788b-4552-a5a6-3b5871f7b174]
+
+Started GET /posts for :: ::1 at Sun Mar 10 2024 18:34:31 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [02d9d448-5085-4e79-9122-d07977caf997]
+
+Started POST /posts for :: ::1 at Sun Mar 10 2024 18:34:36 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"titulo":"asdas","img":"asdasd","descripcion":"asdasd"}
+Completed: 200 message:  Time response: 3 ms Request ID: [717428d1-1e28-4335-9f0f-7e9b3c1b63e1]
+
+Started POST /posts for :: ::1 at Sun Mar 10 2024 18:34:58 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"titulo":"posta","img":"http://localhost:5173/posts","descripcion":"asdasd"}
+Completed: 200 message:  Time response: 2 ms Request ID: [51d2929b-6c18-4525-929c-564663b43a0c]
+
+Started POST /posts for :: ::1 at Sun Mar 10 2024 18:38:27 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"titulo":"holi","img":"www.a.com","descripcion":"sdfasdf"}
+Completed: 200 message:  Time response: 3 ms Request ID: [7e9a5559-4b72-4f36-a950-a1fb61d74315]
+
+Started POST /posts for :: ::1 at Sun Mar 10 2024 19:18:48 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"titulo":"asdfsdf","img":"sdfs","descripcion":"sdfsd"}
+Completed: 200 message:  Time response: 45 ms Request ID: [1a56f26a-ae84-4c6f-9738-b2193d38bb7f]

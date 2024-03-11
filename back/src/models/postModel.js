@@ -12,5 +12,16 @@ const getDbPosts = async (req, res) => {
   }
 };
 
-//should i export?
-export { getDbPosts };
+const createPost = async (titulo, img, descripcion) => {
+  try {
+    const newPost = await pool.query(
+      "INSERT INTO posts (titulo, img, descripcion) VALUES ($1, $2, $3) RETURNING *",
+      [titulo, img, descripcion]
+    );
+    return newPost.rows[0];
+  } catch (err) {
+    console.error(err.message);
+  }
+};
+  
+  export { getDbPosts, createPost };
