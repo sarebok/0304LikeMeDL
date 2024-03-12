@@ -26,7 +26,9 @@ export const deletePost = async (id) => {
 };
 
 export const likePost = async (id) => {
-  await fetch(`${URL_API}/like/${id}`, {
+  let dir=`${URL_API}/like/${id}`
+  console.log(dir)
+  await fetch(dir, {
     method: "PUT",
   });
 };
