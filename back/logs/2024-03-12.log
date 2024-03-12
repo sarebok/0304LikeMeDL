@@ -606,3 +606,55 @@ Started GET /posts for :: ::1 at Tue Mar 12 2024 12:34:57 GMT-0300 (Chile Summer
 Completed: 200 message:  Time response: 37 ms Request ID: [b728cce4-91f5-40a1-a7ee-ef05d29a04b9]
 
 Completed: 304 message:  Time response: 3 ms Request ID: [83170a44-2f16-4aaf-a554-398a0d4bb0d2]
+
+Started GET /posts for :: ::1 at Tue Mar 12 2024 12:49:48 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 41 ms Request ID: [65f2cafb-9085-400c-a6b3-30e1238d4dee]
+
+Started GET /posts for :: ::1 at Tue Mar 12 2024 12:49:48 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [ce2b47ab-d225-4d8a-874d-6851fe2cc10b]
+
+Started DELETE /posts/9 for :: ::1 at Tue Mar 12 2024 12:49:50 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [580cc68c-bff7-445e-998a-e3d33c2a445e]
+
+Started DELETE /posts/1 for :: ::1 at Tue Mar 12 2024 12:49:51 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [ce0862d6-ae5e-4795-8f56-1f191d83e673]
+
+Started POST /posts for :: ::1 at Tue Mar 12 2024 12:50:00 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"titulo":"Nuevo post","img":"hols","descripcion":"a ver"}
+Completed: 200 message:  Time response: 3 ms Request ID: [d8eb0987-3905-48c1-9591-3e411bddda2e]
+
+Started PUT /posts/like/10 for :: ::1 at Tue Mar 12 2024 12:50:01 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 34 ms Request ID: [9fcc5ade-7bd1-4129-93ad-dd78bca378b2]
+
+Started PUT /posts/like/10 for :: ::1 at Tue Mar 12 2024 12:50:02 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 6 ms Request ID: [9638ec37-7a77-44be-bdfb-9f0b39213833]
+
+Started PUT /posts/like/10 for :: ::1 at Tue Mar 12 2024 12:50:02 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [76c535f4-4eae-4450-a04f-74d014e586d2]
+
+Started GET /posts for :: ::1 at Tue Mar 12 2024 17:00:42 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /posts for :: ::1 at Tue Mar 12 2024 17:00:43 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 48 ms Request ID: [55b02f5d-2644-4c12-af4a-91939517e589]
+
+Completed: 304 message:  Time response: 3 ms Request ID: [3e1e8f24-bffb-431e-8a36-11355de5842d]
+
+Started DELETE /posts/10 for :: ::1 at Tue Mar 12 2024 17:00:44 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 6 ms Request ID: [d6a1e208-ee24-48ee-8827-35a0f9ac2df1]
+
+Started POST /posts for :: ::1 at Tue Mar 12 2024 17:00:59 GMT-0300 (Chile Summer Time)
+  Parameters in body: {"titulo":"otromas","img":"otromas","descripcion":"de nuevo"}
+Completed: 200 message:  Time response: 33 ms Request ID: [3410e4fc-3a01-4dbd-8404-3139bf4afd53]
+
+Started PUT /posts/like/11 for :: ::1 at Tue Mar 12 2024 17:01:00 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 41 ms Request ID: [6f383603-f2ef-47d5-bd90-178cc0492436]
